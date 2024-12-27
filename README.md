@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://www.chebbimedayoub.com/" target="_blank">
-  <img src="https://media.cleanshot.cloud/media/101046/uCL4cptsUacO4flGFZOKMplctAG2uCS3UHyx7DRY.gif?Expires=1735340044&Signature=ZcM5QXGGfdtF~sCRn57-rNcqywcgBZFY3D4DiE8tuVEm4iEJwF4vD45J591E-FyW52KRt-AKMFeNQK79TdakuyYCpboYiUHyOWsEXfXdnrqNAfumO9gSkGrbNiW55vQENVcBeuAZgco3Y7csjVIF4l3SlG-wC2I6yZ69IGscRXp1oZD3RPqjjOY7e26aHr7N54nAVoi6VbfF5mxq5oXS41GbpNOAq5T90uUrju~GC9tSL9kipc9~43Z65t5BMiM4c7a~MJsfp1eQPQa-dkml5C6M27tCCLCSv0lYKrkugvQl0O2AoyGoe18G-lz6lYCYZwcHfYpDMtUTGYXoeUyqag__&Key-Pair-Id=K269JMAT9ZF4GZ"/>
+  <img width="100%" src="https://media.cleanshot.cloud/media/101046/uCL4cptsUacO4flGFZOKMplctAG2uCS3UHyx7DRY.gif?Expires=1735340044&Signature=ZcM5QXGGfdtF~sCRn57-rNcqywcgBZFY3D4DiE8tuVEm4iEJwF4vD45J591E-FyW52KRt-AKMFeNQK79TdakuyYCpboYiUHyOWsEXfXdnrqNAfumO9gSkGrbNiW55vQENVcBeuAZgco3Y7csjVIF4l3SlG-wC2I6yZ69IGscRXp1oZD3RPqjjOY7e26aHr7N54nAVoi6VbfF5mxq5oXS41GbpNOAq5T90uUrju~GC9tSL9kipc9~43Z65t5BMiM4c7a~MJsfp1eQPQa-dkml5C6M27tCCLCSv0lYKrkugvQl0O2AoyGoe18G-lz6lYCYZwcHfYpDMtUTGYXoeUyqag__&Key-Pair-Id=K269JMAT9ZF4GZ"/>
   </a>
 </div>
 
