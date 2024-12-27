@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Socials 💬
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/mohamed-ayoub-chebbi/">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=website&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-linkedin-URL">
