@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Socials 💬
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=internet&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Personal%20Portfolio?style=for-the-badge&logo=website&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
