@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://www.chebbimedayoub.com/" target="_blank">
-  <embed src="http://www.chebbimedayoub.com/" style="width:500px; height: 300px;">
+  <embed src="https://www.chebbimedayoub.com/" style="width:500px; height: 300px;">
   </a>
 </div>
 
