@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <a href="https://www.chebbimedayoub.com/" target="_blank">
-https://github.com/user-attachments/assets/0a1ff91d-bf38-466f-af9a-b09729dac650
-  </a>
-</div>
+
+    
+[!video](https://github.com/user-attachments/assets/0a1ff91d-bf38-466f-af9a-b09729dac650)
 
 ## Socials 💬
 <div id="badges">
