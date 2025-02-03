@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://www.chebbimedayoub.com/" target="_blank">
-  <embed src="https://www.chebbimedayoub.com/" style="width:500px; height: 300px;">
+  <video src="video.mp4" style="width: 100%; height:400px" autoplay mute loop/>
   </a>
 </div>
 
