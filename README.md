@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://www.chebbimedayoub.com/" target="_blank">
-  <video src="/video.mp4" autoplay mute loop/>
+  <video src="/video.mp4" autoplay loop> </video>
   </a>
 </div>
 
