@@ -1,38 +1,30 @@
-## Welcome to my GitHub Profile👋
-<!--
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Mohamed%20Ayoub%20Chebbi&fontSize=60&desc=www.chebbimedayoub.com&animation=fadeIn&descAlignY=57&fontAlignY=40&color=_0e1116&fontColor=ffffff)
--->
-<!--
-**chebbi603/chebbi603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.chebbimedayoub.com/"><img src="assets/hero.svg" width="100%" alt="Engineering interfaces that think. Mohamed Ayoub Chebbi, Design Engineer for Human-Centered AI Products."/></a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/user-attachments/assets/0a1ff91d-bf38-466f-af9a-b09729dac650
 
+<br/>
 
-    
-[!video](https://github.com/user-attachments/assets/0a1ff91d-bf38-466f-af9a-b09729dac650)
+<a href="https://www.chebbimedayoub.com/"><img src="assets/services.svg" width="100%" alt="What I make: Product Sprint, UX Audit, Landing Page, Brand Identity."/></a>
 
-## Socials 💬
-<div id="badges">
-  <a href="https://www.chebbimedayoub.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=website&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-ayoub-chebbi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/chebbimedayoub/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/ayoubc4">
-    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<br/><br/>
+
+<a href="https://www.chebbimedayoub.com/bmw"><img src="assets/work-bmw.svg" width="49%" alt="BMW Group case study"/></a>
+<a href="https://www.chebbimedayoub.com/uidapt"><img src="assets/work-uidapt.svg" width="49%" alt="UIDapt case study"/></a>
+<a href="https://www.chebbimedayoub.com/swatch-mcp"><img src="assets/work-swatch.svg" width="49%" alt="Swatch MCP case study"/></a>
+<a href="https://www.chebbimedayoub.com/tuniscovery"><img src="assets/work-tuniscovery.svg" width="49%" alt="Tuniscovery case study"/></a>
+<a href="https://www.chebbimedayoub.com/unidebnotes"><img src="assets/work-unideb.svg" width="49%" alt="UNIDEB Notes case study"/></a>
+<a href="https://www.chebbimedayoub.com/menasyp25"><img src="assets/work-menasyp.svg" width="49%" alt="IEEE R8 MENA SYP 2025 case study"/></a>
+
+<br/><br/>
+
+<a href="https://www.chebbimedayoub.com/contact"><img src="assets/contact.svg" width="100%" alt="Let's build something that thinks. Book a call."/></a>
+
+<p align="center">
+  <a href="https://www.chebbimedayoub.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=E0DEE1&color=000" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-ayoub-chebbi/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E0DEE1" alt="LinkedIn"/></a>
+  <a href="https://www.dribbble.com/chebbimedayoub"><img src="https://img.shields.io/badge/Dribbble-000?style=for-the-badge&logo=dribbble&logoColor=E0DEE1" alt="Dribbble"/></a>
+  <a href="https://www.instagram.com/chebbimedayoub/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E0DEE1" alt="Instagram"/></a>
+  <a href="https://www.upwork.com/freelancers/ayoubc4"><img src="https://img.shields.io/badge/Upwork-000?style=for-the-badge&logo=upwork&logoColor=E0DEE1" alt="Upwork"/></a>
+</p>
